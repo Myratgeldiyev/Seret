@@ -1,0 +1,162 @@
+[
+  {
+    "id": "1",
+    "title": {
+      "en": "The Dark Horizon",
+      "ru": "Темный горизонт",
+      "tm": "Garaňky gorizont"
+    },
+    "description": {
+      "en": "A thrilling journey through space where humanity faces its greatest challenge yet. An epic adventure that explores the boundaries of human courage.",
+      "ru": "Захватывающее путешествие в космос, где человечество сталкивается с величайшим испытанием. Эпическое приключение, исследующее границы человеческой смелости.",
+      "tm": "Adamzadyň iň uly synagynyň öňünde durýan kosmiki syýahatyň tolgundyryjy pursaty. Adam gaýratlylygyny öwrenmek üçin epik başdan geçirme."
+    },
+    "category": "scifi",
+    "rating": 8.9,
+    "year": 2024,
+    "duration": "148 min",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "poster": "https://picsum.photos/400/600?random=1",
+    "hero": "https://picsum.photos/1920/800?random=1"
+  },
+  {
+    "id": "2",
+    "title": {
+      "en": "City Lights",
+      "ru": "Огни города",
+      "tm": "Şäher çyralary"
+    },
+    "description": {
+      "en": "A heartwarming story of love and loss in a bustling metropolis. Follow the interconnected lives of strangers who find meaning in unexpected places.",
+      "ru": "Трогательная история любви и потерь в шумном мегаполисе. Следите за переплетенными жизнями незнакомцев, которые находят смысл в неожиданных местах.",
+      "tm": "Joşgunly şäherde söýgi we ýitgi baradaky ýürek gyzdyryjy hekaýa. Garaşylmadyk ýerlerde many tapýan nätanyş adamlaryň baglanyşykly durmuşyny yzarlaň."
+    },
+    "category": "drama",
+    "rating": 8.5,
+    "year": 2023,
+    "duration": "125 min",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "poster": "https://picsum.photos/400/600?random=2",
+    "hero": "https://picsum.photos/1920/800?random=2"
+  },
+  {
+    "id": "3",
+    "title": {
+      "en": "Shadow Warriors",
+      "ru": "Воины тени",
+      "tm": "Kölege söweşijiler"
+    },
+    "description": {
+      "en": "Elite operatives must stop a global threat before it's too late. High-octane action sequences and heart-pounding suspense in this explosive thriller.",
+      "ru": "Элитные оперативники должны остановить глобальную угрозу, пока не поздно. Высокооктановые боевые сцены и захватывающее напряжение в этом взрывном триллере.",
+      "tm": "Elit işgärler giç bolmazdan global howpy togtatmalydyrlar. Bu partlaýjy trillerde ýokary oktanly hereket sezimler we ýürek güýçlendiriji dartgynlylyk."
+    },
+    "category": "action",
+    "rating": 7.8,
+    "year": 2024,
+    "duration": "132 min",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "poster": "https://picsum.photos/400/600?random=3",
+    "hero": "https://picsum.photos/1920/800?random=3"
+  },
+  {
+    "id": "4",
+    "title": {
+      "en": "The Last Laugh",
+      "ru": "Последний смех",
+      "tm": "Soňky gülki"
+    },
+    "description": {
+      "en": "A comedian's hilarious journey to redemption after a career-ending scandal. Laugh-out-loud moments mixed with genuine emotional depth.",
+      "ru": "Веселое путешествие комика к искуплению после скандала, положившего конец карьере. Смешные моменты, смешанные с подлинной эмоциональной глубиной.",
+      "tm": "Komediýanyň karýerasyny tamamlaýan skandaldan soň gülküli gaýdyp gelmek syýahaty. Gülkünç pursatlar hakyky duýgy çuňlugy bilen garyşyk."
+    },
+    "category": "comedy",
+    "rating": 7.3,
+    "year": 2023,
+    "duration": "108 min",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "poster": "https://picsum.photos/400/600?random=4",
+    "hero": "https://picsum.photos/1920/800?random=4"
+  },
+  {
+    "id": "5",
+    "title": {
+      "en": "Whispers in the Dark",
+      "ru": "Шепот в темноте",
+      "tm": "Garaňkylykda pyşyrdamalar"
+    },
+    "description": {
+      "en": "A psychological thriller that will keep you guessing until the very end. Nothing is as it seems in this twisted tale of deception and paranoia.",
+      "ru": "Психологический триллер, который заставит вас гадать до самого конца. Ничто не является тем, чем кажется в этой запутанной истории обмана и паранойи.",
+      "tm": "Sizi iň soňuna çenli çaklamaga mejbur edýän psihologik triller. Bu aldawly we paranoýa hekaýasynda hiç zat görünýän ýaly däl."
+    },
+    "category": "thriller",
+    "rating": 8.2,
+    "year": 2024,
+    "duration": "118 min",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "poster": "https://picsum.photos/400/600?random=5",
+    "hero": "https://picsum.photos/1920/800?random=5"
+  },
+  {
+    "id": "6",
+    "title": {
+      "en": "Quantum Paradox",
+      "ru": "Квантовый парадокс",
+      "tm": "Kwant paradoksy"
+    },
+    "description": {
+      "en": "Scientists discover a way to manipulate time, but at what cost? A mind-bending sci-fi epic that challenges our understanding of reality.",
+      "ru": "Ученые открывают способ манипулировать временем, но какой ценой? Умопомрачительная научно-фантастическая эпопея, которая бросает вызов нашему пониманию реальности.",
+      "tm": "Alymlar wagty dolandyrmagyň usulyny tapýarlar, ýöne nähili bahadan? Hakykatyň düşünmegine garşy çykýan aň-düşünjäni gowzaýan ylmy-fantastiki epos."
+    },
+    "category": "scifi",
+    "rating": 8.7,
+    "year": 2024,
+    "duration": "156 min",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+    "poster": "https://picsum.photos/400/600?random=6",
+    "hero": "https://picsum.photos/1920/800?random=6"
+  },
+  {
+    "id": "7",
+    "title": {
+      "en": "Fighting Spirit",
+      "ru": "Боевой дух",
+      "tm": "Söweş ruhy"
+    },
+    "description": {
+      "en": "An underdog fighter's rise to glory against all odds. Powerful action sequences combined with an inspiring story of perseverance.",
+      "ru": "Восхождение к славе бойца-неудачника вопреки всему. Мощные боевые сцены в сочетании с вдохновляющей историей настойчивости.",
+      "tm": "Ähli kynçylyga garşy söweşijiniň şöhrata ýokary göterilmegi. Güýçli hereket sahnalary ylham berýän gaýduwsyzlyk hekaýasy bilen utgaşdyrylan."
+    },
+    "category": "action",
+    "rating": 8.1,
+    "year": 2023,
+    "duration": "128 min",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+    "poster": "https://picsum.photos/400/600?random=7",
+    "hero": "https://picsum.photos/1920/800?random=7"
+  },
+  {
+    "id": "8",
+    "title": {
+      "en": "Summer Dreams",
+      "ru": "Летние мечты",
+      "tm": "Tomus arzuwlary"
+    },
+    "description": {
+      "en": "A coming-of-age story set during one unforgettable summer. Beautiful cinematography captures the essence of youth and friendship.",
+      "ru": "История взросления, происходящая в течение одного незабываемого лета. Красивая операторская работа передает сущность молодости и дружбы.",
+      "tm": "Bir ýatdan çykmajak tomusda bolup geçýän ösüş hekaýasy. Owadan kinematografiýa ýaşlygyň we dostlugyň manysyny görkezýär."
+    },
+    "category": "drama",
+    "rating": 7.9,
+    "year": 2023,
+    "duration": "112 min",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "poster": "https://picsum.photos/400/600?random=8",
+    "hero": "https://picsum.photos/1920/800?random=8"
+  }
+]
